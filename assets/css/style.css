@@ -1,7 +1,9 @@
 * {
     box-sizing: border-box;
   }
-  
+  *{
+    border: 1px solid black;
+  }
   /* brand color palette */
   :root {
     --primary: rgba(68, 88, 119, 1);
