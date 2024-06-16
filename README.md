@@ -18,7 +18,7 @@ The github link at the bottom of the page will bring you to this repo.
 ![screenshot](./assets/images/portfolio.png)
 
 ## URL
-
+https://chrisreynolds0508.github.io/bootcamp-portfolio/
 
 ## Authors
 Chris Reynolds
